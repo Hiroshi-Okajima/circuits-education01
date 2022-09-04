@@ -2,7 +2,7 @@
 
 [書写シート](https://github.com/Hiroshi-Okajima/circuits-education01/blob/main/%E5%95%8F%E9%A1%8C02.pdf)
 
-[演習問題1]()
+[演習問題1](https://github.com/Hiroshi-Okajima/circuits-education01/blob/main/%E5%95%8F%E9%A1%8C01.pdf)
 
 [演習問題2]()
 
